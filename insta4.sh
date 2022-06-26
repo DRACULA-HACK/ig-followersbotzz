@@ -1,6 +1,7 @@
 #!/bin/bash
 # insta-follow v1.0
 # recoded by: master hack
+# A big instagram tool shall script
 red='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
@@ -639,7 +640,7 @@ printf " \033[1;33m[5] \033[1;34m                  Download the Following List\e
 printf " \033[1;33m[6] \033[1;34m                  Download the Followers List\e[0m\n"
 printf " \033[1;33m[7] \033[1;34m                  Download the Profile Info\e[0m\n"
 printf " \033[1;33m[8] \033[1;34m                  Activate Unfollower\e[0m\n"
-printf " \033[1;33m[9] \033[1;34m                  instagram inf gathering\e[0m\n"
+printf " \033[1;33m[9] \033[1;34m                  instagram info gathering\e[0m\n"
 printf " \033[1;33m[10] \033[1;34m                 install instagram mod apk\e[0m\n"
 printf " \033[1;33m[0] \033[1;34m                  exit \e[0m\n"
 printf "\n"
