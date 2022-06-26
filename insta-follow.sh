@@ -8,7 +8,7 @@ ylo='\033[1;33m'
 blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
-
+figlet -f big master-hack  | lolcat
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
