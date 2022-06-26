@@ -1,6 +1,39 @@
 #!/bin/bash
 # insta-follow v1.0
 # recoded by: master hack
+# all in one script
+#install your packages
+clear
+apt update
+apt upgrade
+apt install figlet -y
+figlet by master-hack
+sleep 10
+clear
+figlet installing packages
+apt install toilet -y
+apt install cowsay -y
+apt install nano -y
+apt install ruby -y
+gem install lolcat
+apt install git curl openssh openssl openssl-tool -y
+figlet -f big INSTALLED !!! | lolcat
+echo ""
+echo ""
+echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
+xdg-open https://youtube.com/channel/UC5HIWT2iUznhNFX0BzukXUQ
+echo ""
+sleep 10 
+echo ""
+echo " code recorded by master-hack "
+sleep 5
+sleep 10
+echo " follow my insta account "
+echo "  "
+termux-open-url https://instagram.com/_master_hack_?igshid=YmMyMTA2M2Y=
+echo " "
+sleep 10
+clear
 red='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
@@ -9,6 +42,9 @@ blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
 figlet -f big master-hack  | lolcat
+
+sleep 15
+
 string4=$(openssl rand -hex 32 | cut -c 1-4)
 string8=$(openssl rand -hex 32  | cut -c 1-8)
 string12=$(openssl rand -hex 32 | cut -c 1-12)
