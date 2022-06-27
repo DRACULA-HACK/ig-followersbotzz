@@ -31,6 +31,11 @@ And it have insta report , information gathering ,And brute force
 #
 And in option 10 you can install the instagram mod which created by Sam bro mods
 #
+#
+https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html?m=1
+#
+$
+#
  Tool is created fore TERMUX users
 
 #
