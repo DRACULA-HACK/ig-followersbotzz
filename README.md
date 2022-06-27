@@ -36,7 +36,7 @@ https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html?m=1
 #
 $
 #
- Tool is created fore TERMUX users
+ Tool is also created fore TERMUX users
 
 #
 # installation
