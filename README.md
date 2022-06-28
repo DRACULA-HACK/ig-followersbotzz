@@ -29,7 +29,7 @@ It is a bot of 25 accounts And the trick follow And Unfollow make more then 20 i
 And it have more features also in instagram info gathering we add the Tool insta hack 
 And it have insta report , information gathering ,And brute force
 #
-And in option 10 you can install the instagram mod which created by Sam bro mods
+And in option 10 you can install the instagram mod which created by Sam bro mods And ad mods
 #
 #
 https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html?m=1
