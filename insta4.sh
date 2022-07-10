@@ -9,6 +9,16 @@ ylo='\033[1;33m'
 blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
+clear
+
+echo -e " $red      Hi
+
+                Bro contact me if you have any
+                 Doubts
+"
+sleep 5
+termux-open-url https://wa.me//+916235369260
+sleep 8
 
 #install your packages
 clear
