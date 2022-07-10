@@ -11,7 +11,12 @@ cyan='\033[1;36m'
 pink='\033[1;35m'
 clear
 
-echo -e " $red      Hi
+echo -e " $red     
+
+
+
+
+                     Hi
 
                 Bro contact me if you have any
                  Doubts
