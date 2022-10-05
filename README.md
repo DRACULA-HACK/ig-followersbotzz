@@ -40,7 +40,7 @@ And in option 10 you can install the instagram mod which created by Sam bro mods
 #
 https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html?m=1
 #
-$
+` `
 #
  Tool is also created fore TERMUX users
 
@@ -48,37 +48,37 @@ $
 # installation
 
 #
-apt install git
 
+` apt install git `
+
+
+` apt install figlet -y `
+
+` apt install toilet -y `
+
+` apt install cowsay -y `
+
+` apt install nano -y `
+
+` apt install ruby -y `
+
+` gem install lolcat `
+
+` apt install git curl openssh openssl openssl-tool -y `
 #
 
-apt install figlet -y
-#
-apt install toilet -y
-#
-apt install cowsay -y
-#
-apt install nano -y
-#
-apt install ruby -y
-#
-gem install lolcat
-#
-apt install git curl openssh openssl openssl-tool -y
-#
+` git clone https://github.com/DRACULA-HACK/insta-follow-botz.git `
 
-git clone https://github.com/DRACULA-HACK/insta-follow-botz.git
-#
-cd insta-follow-botz
-#
-chmod +x insta4.sh
-#
-./insta4.sh
+` cd insta-follow-botz `
+
+` chmod +x insta4.sh `
+
+` ./insta4.sh `
 #
 #
 Or
 #
-bash insta4.sh
+` bash insta4.sh `
 #
 # gave the credit 
 # Insta
