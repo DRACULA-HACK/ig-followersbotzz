@@ -44,7 +44,7 @@ figlet -f big INSTALLED !!! | lolcat
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://youtube.com/channel/UC5HIWT2iUznhNFX0BzukXUQ
+xdg-open https://youtube.com/@invadersofc1120
 echo ""
 sleep 10 
 echo ""
@@ -53,7 +53,7 @@ sleep 5
 sleep 10
 echo " follow my insta account "
 echo "  "
-termux-open-url https://instagram.com/_master_hack_?igshid=YmMyMTA2M2Y=
+termux-open-url https://instagram.com/ff_monster_gamer?igshid=YmMyMTA2M2Y=
 echo " "
 sleep 10
 clear
