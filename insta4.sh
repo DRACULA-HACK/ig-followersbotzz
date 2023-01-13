@@ -44,7 +44,7 @@ figlet -f big INSTALLED !!! | lolcat
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://youtube.com/@invadersofc1120
+xdg-open https://youtu.be/ws437aZ22d8
 echo ""
 sleep 10 
 echo ""
