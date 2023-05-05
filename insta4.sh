@@ -707,19 +707,14 @@ login_user
 unfollower
 
 elif [[ $option -eq 9 ]]; then
-apt update -y
-apt install python -y
-apt install python2 -y
-apt install git -y
-cd $home
-git clone https://github.com/IncredibleHacker/insta-hack
-ls
-cd insta-hack
-pip3 install -r requirements.txt
-chmod +x *
-bash setup.sh
-bash insta-hack.sh
-cd ..
+echo ""
+
+echo -e "
+
+           \033[1;35m it will come on next update " 
+sleep 10
+# please wait for the updation
+bash insta4.sh
 
 elif [[ $option -eq 10 ]]; then
 echo -e " install the instagram mod apk on media fire.com
