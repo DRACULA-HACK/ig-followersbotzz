@@ -87,5 +87,5 @@ https://instagram.com/_master_hack_?igshid=YmMyMTA2M2Y=
 https://youtube.com/channel/UC5HIWT2iUznhNFX0BzukXUQ
 #
 # whatsapp 
-https://wa.me/+916235369260
+https://wa.me/919187514600
 #
